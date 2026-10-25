@@ -74,7 +74,8 @@ Modal graph for Load Test:
 Open Circuit Calculation: 
 
 
-<img width="3060" height="4080" alt="open circuit calc" src="https://github.com/user-attachments/assets/60109e0b-a204-40f9-a62d-35c8ac724730" />
+<img width="2683" height="2571" alt="open circuit" src="https://github.com/user-attachments/assets/923e655a-5d13-4e33-8996-55136b9b3865" />
+
 
 Load Test Calculation:
 
